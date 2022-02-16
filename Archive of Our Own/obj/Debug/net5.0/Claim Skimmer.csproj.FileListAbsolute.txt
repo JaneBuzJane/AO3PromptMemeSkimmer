@@ -1,0 +1,16 @@
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\bin\Debug\net5.0\Claim Skimmer.exe
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\bin\Debug\net5.0\Claim Skimmer.deps.json
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\bin\Debug\net5.0\Claim Skimmer.runtimeconfig.json
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\bin\Debug\net5.0\Claim Skimmer.runtimeconfig.dev.json
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\bin\Debug\net5.0\Claim Skimmer.dll
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\bin\Debug\net5.0\ref\Claim Skimmer.dll
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\bin\Debug\net5.0\Claim Skimmer.pdb
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.csproj.AssemblyReference.cache
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.AssemblyInfoInputs.cache
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.AssemblyInfo.cs
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.csproj.CoreCompileInputs.cache
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.dll
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\ref\Claim Skimmer.dll
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.pdb
+C:\Users\Bootsie\source\repos\Archive of Our Own\Archive of Our Own\obj\Debug\net5.0\Claim Skimmer.genruntimeconfig.cache
