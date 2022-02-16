@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>APMS</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <PackageId>AO3 Prompt Meme Skimmer</PackageId>
+    <Product>AO3 Prompt Meme Skimmer</Product>
+    <Authors>JaneBuzJane</Authors>
+    <Company />
+    <Description>Skims prompt memes from archiveofourown.org and exports to a spreadsheet.</Description>
+    <Copyright>2021</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ExcelLibrary">
+      <HintPath>ExcelLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
