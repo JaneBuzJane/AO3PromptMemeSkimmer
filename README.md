@@ -33,7 +33,7 @@ The Collection ID is the name of the URL you want to scrape. You get this from t
 
 ![image](https://user-images.githubusercontent.com/23597622/154349772-ee07bd91-c6c3-428e-a9dc-4a724b5d7b31.png)
 
-Then, enter a username and password. These fields are used to generate prompt URLs and claim statuses. 
+Then, enter a username and password. These fields are used to log into AO3 to actually scrape the site, and are critical to generating prompt URLs and claim statuses. You can use your own, or you can use an invite from your own account to create a new one.
 
 🔴 Important: This data is **completely private** - I, the project owner, have no way of knowing what you put in this field. It is entirely local to your machine and I will never see it. 
 
