@@ -8,7 +8,7 @@ THe Archive of Our Own (AO3) has no easy way to search a prompt meme collection.
 I'm JaneBuzJane. I've been in lots of different fandoms over the years! The person who helped me write this project prefers to remain uncredited, and indeed he has no social media for me to even stealthily give him a shout-out. But let us all raise a glass to Bat, who wrote this entire thing in one evening when I came to him with a hypothetical. 🥂
 
 ## 💭 How do I install it?
-1. You may have stumbled upon this project for personal use as a prompt meme admin. If you don't want to compile the code from Git, and just want the completed project that you can use, check the Wiki. Otherwise, keep reading! 
+1. You may have stumbled upon this project for personal use as a prompt meme admin. If you don't want to compile the code from Git, and just want the completed project that you can use, **[check the Wiki.](https://github.com/JaneBuzJane/AO3PromptMemeSkimmer/wiki/Download-pre-built-version)** Otherwise, keep reading! 
 
 2. First, download Visual Studio. It is available for free [here.](https://visualstudio.microsoft.com/free-developer-offers/) You'll want the "Community" (purple) version.
 
